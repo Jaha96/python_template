@@ -1,0 +1,6 @@
+[run]
+omit = 
+    ; omit kanpo/tests/*
+
+command_line = 
+    -m pytest -vv
